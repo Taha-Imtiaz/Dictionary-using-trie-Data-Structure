@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544968027 source:c:\tahawork\semester 4\mf project\tries\radix tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+
